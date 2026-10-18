@@ -90,19 +90,19 @@
     <category lang="pl">magazyn</category>
   </programme>
   <programme channel="TVP.Polonia.HD.pl" start="20261018055000 -0500" stop="20261018060000 -0500">
-    <title lang="pl">Słowo na niedzielę</title>
+    <title lang="en">Word for Sunday</title>
     <desc lang="pl">Program poświęcony tematyce religijnej, w którym omawiane są fragmenty Pisma Świętego czytane w czasie mszy świętej w najbliższą niedzielę. Zachęca, by Ewangelia stała się codzienną lekturą.</desc>
     <category lang="pl">program religijny</category>
   </programme>
   <programme channel="TVP.Polonia.HD.pl" start="20261018060000 -0500" stop="20261018071500 -0500">
-    <title lang="pl">Transmisja mszy świętej z kościoła pw. Świętych Polskich Braci Męczenników w Bydgoszczy</title>
+    <title lang="en">Transmission of the Holy Mass from the Church of the Holy Polish Martyrs in Bydgoszcz</title>
     <category lang="pl">program religijny</category>
   </programme>
   <programme channel="TVP.Polonia.HD.pl" start="20261018071500 -0500" stop="20261018072500 -0500">
-    <title lang="pl">Piłka nożna: Betclic 1. Liga - studio</title>
+    <title lang="en">Football: Betclic 1st League - Studio</title>
   </programme>
   <programme channel="TVP.Polonia.HD.pl" start="20261018072500 -0500" stop="20261018100000 -0500">
-    <title lang="pl">Piłka nożna: Betclic 1. Liga - mecz: ŁKS Łódź - Podbeskidzie Bielsko-Biała</title>
+    <title lang="en">Football: Betclic 1. League - match: ŁKS Łódź - Podbeskidzie Bielsko-Biała</title>
   </programme>
   <programme channel="TVP.Polonia.HD.pl" start="20261018100000 -0500" stop="20261018102500 -0500">
     <title lang="pl">Teleexpress</title>
@@ -110,7 +110,7 @@
     <category lang="pl">program informacyjny</category>
   </programme>
   <programme channel="TVP.Polonia.HD.pl" start="20261018102500 -0500" stop="20261018112000 -0500">
-    <title lang="pl">M jak miłość</title>
+    <title lang="en">M for love</title>
     <desc lang="pl">Paweł organizuje casting na nianię dla Antosia. Daje tym jasno do zrozumienia, że nie chce, by chłopiec spędzał zbyt wiele czasu z Agnes. W tym samym czasie Dominik Walat znów doprowadza do wypadku. Tym razem poszkodowanymi są Agnes, Maria i przypadkowy rowerzysta. Wieści o wybrykach chłopaka doprowadzają Zduńskiego do szału i rozpalają w nim na nowo pragnienie zemsty za śmierć Franki. Magda i Andrzej jadą do sądu na finał procesu Jabłońskiego, licząc na ostateczne rozstrzygnięcie. Tymczasem Werner zaskakuje Sylwię propozycją podpisania intercyzy zamiast klasycznych oświadczyn. Gdy dodatkowo wypomina jej tykający zegar biologiczny, Kostecka traci cierpliwość i podejmuje przełomową decyzję.</desc>
     <credits>
       <actor>Barbara Mostowiak - Teresa Lipowska</actor>
@@ -125,12 +125,12 @@
     <episode-num system="onscreen">E1939</episode-num>
   </programme>
   <programme channel="TVP.Polonia.HD.pl" start="20261018112000 -0500" stop="20261018121500 -0500">
-    <title lang="pl">Srebrny Montreal 50 lat później</title>
+    <title lang="en">Silver Montreal 50 years later</title>
     <date>2026</date>
     <category lang="pl">reportaż</category>
   </programme>
   <programme channel="TVP.Polonia.HD.pl" start="20261018121500 -0500" stop="20261018123000 -0500">
-    <title lang="pl">63. KFPP w Opolu - Autobiografia. Jubileusz Bogdana Olewicza</title>
+    <title lang="en">63. KFPP in Opole - Autobiography. Jubilee of Bogdan Olewicz</title>
     <desc lang="pl">Widowisko poświęcone wybitnemu autorowi tekstów piosenek, z okazji 80. rocznicy jego urodzin. Bogdan Olewicz napisał słowa do takich hitów, jak "Autobiografia", "Wielka miłość", "Jesteś lekiem na całe zło", "Nie płacz Ewka", "Niewiele ci mogę dać", "Rysa na szkle", "Kołysanka dla nieznajomej" czy "Tylko mnie poproś do tańca". Wystąpią m.in. Perfect i Łukasz Drapała, Natalia Kukulska, Kuba Badach, Krzysztof Cugowski i Zespół Mistrzów, Doda, Kamil Bednarek, Alicja Szemplińska, Mietek Szcześniak, Alicja Majewska i Włodzimierz Korcz, Urszula, Golden Life, Universe, Andrzej Rybiński i Halina Mlynkova.</desc>
     <credits>
       <director>Marcin Kołaczkowski</director>
@@ -139,18 +139,18 @@
     <category lang="pl">koncert</category>
   </programme>
   <programme channel="TVP.Polonia.HD.pl" start="20261018123000 -0500" stop="20261018125500 -0500">
-    <title lang="pl">Program informacyjny 19.30</title>
+    <title lang="en">Information program 19.30</title>
     <desc lang="pl">Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.</desc>
     <category lang="pl">program informacyjny</category>
   </programme>
   <programme channel="TVP.Polonia.HD.pl" start="20261018125500 -0500" stop="20261018130500 -0500">
-    <title lang="pl">Pytanie dnia</title>
+    <title lang="en">Question of the day</title>
     <desc lang="pl">Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.</desc>
     <date>2026</date>
     <category lang="pl">program publicystyczny</category>
   </programme>
   <programme channel="TVP.Polonia.HD.pl" start="20261018130500 -0500" stop="20261018131500 -0500">
-    <title lang="pl">Sport</title>
+    <title lang="en">Sports</title>
     <desc lang="pl">Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.</desc>
     <category lang="pl">magazyn sportowy</category>
   </programme>
@@ -211,7 +211,7 @@
     <episode-num system="onscreen">E28</episode-num>
   </programme>
   <programme channel="TVP.Polonia.HD.pl" start="20261018174000 -0500" stop="20261018183000 -0500">
-    <title lang="pl">M jak miłość</title>
+    <title lang="en">M for love</title>
     <desc lang="pl">Paweł organizuje casting na nianię dla Antosia. Daje tym jasno do zrozumienia, że nie chce, by chłopiec spędzał zbyt wiele czasu z Agnes. W tym samym czasie Dominik Walat znów doprowadza do wypadku. Tym razem poszkodowanymi są Agnes, Maria i przypadkowy rowerzysta. Wieści o wybrykach chłopaka doprowadzają Zduńskiego do szału i rozpalają w nim na nowo pragnienie zemsty za śmierć Franki. Magda i Andrzej jadą do sądu na finał procesu Jabłońskiego, licząc na ostateczne rozstrzygnięcie. Tymczasem Werner zaskakuje Sylwię propozycją podpisania intercyzy zamiast klasycznych oświadczyn. Gdy dodatkowo wypomina jej tykający zegar biologiczny, Kostecka traci cierpliwość i podejmuje przełomową decyzję.</desc>
     <credits>
       <actor>Barbara Mostowiak - Teresa Lipowska</actor>
@@ -226,18 +226,18 @@
     <episode-num system="onscreen">E1939</episode-num>
   </programme>
   <programme channel="TVP.Polonia.HD.pl" start="20261018183000 -0500" stop="20261018185500 -0500">
-    <title lang="pl">Program informacyjny 19.30</title>
+    <title lang="en">Information program 19.30</title>
     <desc lang="pl">Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.</desc>
     <category lang="pl">program informacyjny</category>
   </programme>
   <programme channel="TVP.Polonia.HD.pl" start="20261018185500 -0500" stop="20261018190000 -0500">
-    <title lang="pl">Pytanie dnia</title>
+    <title lang="en">Question of the day</title>
     <desc lang="pl">Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.</desc>
     <date>2026</date>
     <category lang="pl">program publicystyczny</category>
   </programme>
   <programme channel="TVP.Polonia.HD.pl" start="20261018190000 -0500" stop="20261018190400 -0500">
-    <title lang="pl">Sport</title>
+    <title lang="en">Sports</title>
     <desc lang="pl">Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.</desc>
     <category lang="pl">magazyn sportowy</category>
   </programme>
@@ -526,18 +526,18 @@
     <category lang="pl">cykl reportaży</category>
   </programme>
   <programme channel="TVP.Polonia.HD.pl" start="20261019123000 -0500" stop="20261019125500 -0500">
-    <title lang="pl">Program informacyjny 19.30</title>
+    <title lang="en">Information program 19.30</title>
     <desc lang="pl">Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.</desc>
     <category lang="pl">program informacyjny</category>
   </programme>
   <programme channel="TVP.Polonia.HD.pl" start="20261019125500 -0500" stop="20261019131000 -0500">
-    <title lang="pl">Pytanie dnia</title>
+    <title lang="en">Question of the day</title>
     <desc lang="pl">Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.</desc>
     <date>2026</date>
     <category lang="pl">program publicystyczny</category>
   </programme>
   <programme channel="TVP.Polonia.HD.pl" start="20261019131000 -0500" stop="20261019131500 -0500">
-    <title lang="pl">Sport</title>
+    <title lang="en">Sports</title>
     <desc lang="pl">Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.</desc>
     <category lang="pl">magazyn sportowy</category>
   </programme>
@@ -630,18 +630,18 @@
     <episode-num system="onscreen">E7</episode-num>
   </programme>
   <programme channel="TVP.Polonia.HD.pl" start="20261019183000 -0500" stop="20261019185500 -0500">
-    <title lang="pl">Program informacyjny 19.30</title>
+    <title lang="en">Information program 19.30</title>
     <desc lang="pl">Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.</desc>
     <category lang="pl">program informacyjny</category>
   </programme>
   <programme channel="TVP.Polonia.HD.pl" start="20261019185500 -0500" stop="20261019190500 -0500">
-    <title lang="pl">Pytanie dnia</title>
+    <title lang="en">Question of the day</title>
     <desc lang="pl">Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.</desc>
     <date>2026</date>
     <category lang="pl">program publicystyczny</category>
   </programme>
   <programme channel="TVP.Polonia.HD.pl" start="20261019190500 -0500" stop="20261019191000 -0500">
-    <title lang="pl">Sport</title>
+    <title lang="en">Sports</title>
     <desc lang="pl">Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.</desc>
     <category lang="pl">magazyn sportowy</category>
   </programme>
@@ -893,18 +893,18 @@
     <category lang="pl">cykl reportaży</category>
   </programme>
   <programme channel="TVP.Polonia.HD.pl" start="20261020123000 -0500" stop="20261020125500 -0500">
-    <title lang="pl">Program informacyjny 19.30</title>
+    <title lang="en">Information program 19.30</title>
     <desc lang="pl">Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.</desc>
     <category lang="pl">program informacyjny</category>
   </programme>
   <programme channel="TVP.Polonia.HD.pl" start="20261020125500 -0500" stop="20261020131000 -0500">
-    <title lang="pl">Pytanie dnia</title>
+    <title lang="en">Question of the day</title>
     <desc lang="pl">Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.</desc>
     <date>2026</date>
     <category lang="pl">program publicystyczny</category>
   </programme>
   <programme channel="TVP.Polonia.HD.pl" start="20261020131000 -0500" stop="20261020131500 -0500">
-    <title lang="pl">Sport</title>
+    <title lang="en">Sports</title>
     <desc lang="pl">Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.</desc>
     <category lang="pl">magazyn sportowy</category>
   </programme>
@@ -1007,18 +1007,18 @@ Ania i Mania przygotowują się do matury. Po zakończeniu edukacji druga z bli�
     <episode-num system="onscreen">E199</episode-num>
   </programme>
   <programme channel="TVP.Polonia.HD.pl" start="20261020183000 -0500" stop="20261020185500 -0500">
-    <title lang="pl">Program informacyjny 19.30</title>
+    <title lang="en">Information program 19.30</title>
     <desc lang="pl">Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.</desc>
     <category lang="pl">program informacyjny</category>
   </programme>
   <programme channel="TVP.Polonia.HD.pl" start="20261020185500 -0500" stop="20261020190500 -0500">
-    <title lang="pl">Pytanie dnia</title>
+    <title lang="en">Question of the day</title>
     <desc lang="pl">Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.</desc>
     <date>2026</date>
     <category lang="pl">program publicystyczny</category>
   </programme>
   <programme channel="TVP.Polonia.HD.pl" start="20261020190500 -0500" stop="20261020191000 -0500">
-    <title lang="pl">Sport</title>
+    <title lang="en">Sports</title>
     <desc lang="pl">Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.</desc>
     <category lang="pl">magazyn sportowy</category>
   </programme>
@@ -1292,18 +1292,18 @@ Ania i Mania przygotowują się do matury. Po zakończeniu edukacji druga z bli�
     <category lang="pl">cykl reportaży</category>
   </programme>
   <programme channel="TVP.Polonia.HD.pl" start="20261021123000 -0500" stop="20261021125500 -0500">
-    <title lang="pl">Program informacyjny 19.30</title>
+    <title lang="en">Information program 19.30</title>
     <desc lang="pl">Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.</desc>
     <category lang="pl">program informacyjny</category>
   </programme>
   <programme channel="TVP.Polonia.HD.pl" start="20261021125500 -0500" stop="20261021131000 -0500">
-    <title lang="pl">Pytanie dnia</title>
+    <title lang="en">Question of the day</title>
     <desc lang="pl">Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.</desc>
     <date>2026</date>
     <category lang="pl">program publicystyczny</category>
   </programme>
   <programme channel="TVP.Polonia.HD.pl" start="20261021131000 -0500" stop="20261021131500 -0500">
-    <title lang="pl">Sport</title>
+    <title lang="en">Sports</title>
     <desc lang="pl">Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.</desc>
     <category lang="pl">magazyn sportowy</category>
   </programme>
@@ -1398,18 +1398,18 @@ Ania i Mania przygotowują się do matury. Po zakończeniu edukacji druga z bli�
     <episode-num system="onscreen">E10</episode-num>
   </programme>
   <programme channel="TVP.Polonia.HD.pl" start="20261021183000 -0500" stop="20261021185500 -0500">
-    <title lang="pl">Program informacyjny 19.30</title>
+    <title lang="en">Information program 19.30</title>
     <desc lang="pl">Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.</desc>
     <category lang="pl">program informacyjny</category>
   </programme>
   <programme channel="TVP.Polonia.HD.pl" start="20261021185500 -0500" stop="20261021190500 -0500">
-    <title lang="pl">Pytanie dnia</title>
+    <title lang="en">Question of the day</title>
     <desc lang="pl">Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.</desc>
     <date>2026</date>
     <category lang="pl">program publicystyczny</category>
   </programme>
   <programme channel="TVP.Polonia.HD.pl" start="20261021190500 -0500" stop="20261021191000 -0500">
-    <title lang="pl">Sport</title>
+    <title lang="en">Sports</title>
     <desc lang="pl">Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.</desc>
     <category lang="pl">magazyn sportowy</category>
   </programme>
@@ -1669,18 +1669,18 @@ Do szpitala zostaje przywieziony człowiek, który celowo wywołał pożar w cen
     <category lang="pl">cykl reportaży</category>
   </programme>
   <programme channel="TVP.Polonia.HD.pl" start="20261022123000 -0500" stop="20261022125500 -0500">
-    <title lang="pl">Program informacyjny 19.30</title>
+    <title lang="en">Information program 19.30</title>
     <desc lang="pl">Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.</desc>
     <category lang="pl">program informacyjny</category>
   </programme>
   <programme channel="TVP.Polonia.HD.pl" start="20261022125500 -0500" stop="20261022131000 -0500">
-    <title lang="pl">Pytanie dnia</title>
+    <title lang="en">Question of the day</title>
     <desc lang="pl">Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.</desc>
     <date>2026</date>
     <category lang="pl">program publicystyczny</category>
   </programme>
   <programme channel="TVP.Polonia.HD.pl" start="20261022131000 -0500" stop="20261022131500 -0500">
-    <title lang="pl">Sport</title>
+    <title lang="en">Sports</title>
     <desc lang="pl">Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.</desc>
     <category lang="pl">magazyn sportowy</category>
   </programme>
@@ -1759,18 +1759,18 @@ Basia powoli wraca do zdrowia. W obawie o bezpieczeństwo córki Olgierd wysyła
     <category lang="pl">cykl dokumentalny</category>
   </programme>
   <programme channel="TVP.Polonia.HD.pl" start="20261022183000 -0500" stop="20261022185500 -0500">
-    <title lang="pl">Program informacyjny 19.30</title>
+    <title lang="en">Information program 19.30</title>
     <desc lang="pl">Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.</desc>
     <category lang="pl">program informacyjny</category>
   </programme>
   <programme channel="TVP.Polonia.HD.pl" start="20261022185500 -0500" stop="20261022190500 -0500">
-    <title lang="pl">Pytanie dnia</title>
+    <title lang="en">Question of the day</title>
     <desc lang="pl">Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.</desc>
     <date>2026</date>
     <category lang="pl">program publicystyczny</category>
   </programme>
   <programme channel="TVP.Polonia.HD.pl" start="20261022190500 -0500" stop="20261022191000 -0500">
-    <title lang="pl">Sport</title>
+    <title lang="en">Sports</title>
     <desc lang="pl">Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.</desc>
     <category lang="pl">magazyn sportowy</category>
   </programme>
@@ -2070,18 +2070,18 @@ Basia powoli wraca do zdrowia. W obawie o bezpieczeństwo córki Olgierd wysyła
     <episode-num system="onscreen">E5989</episode-num>
   </programme>
   <programme channel="TVP.1.HD.pl" start="20261018123000 -0500" stop="20261018125500 -0500">
-    <title lang="pl">Program informacyjny 19.30</title>
+    <title lang="en">Information program 19.30</title>
     <desc lang="pl">Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.</desc>
     <category lang="pl">program informacyjny</category>
   </programme>
   <programme channel="TVP.1.HD.pl" start="20261018125500 -0500" stop="20261018130500 -0500">
-    <title lang="pl">Pytanie dnia</title>
+    <title lang="en">Question of the day</title>
     <desc lang="pl">Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.</desc>
     <date>2026</date>
     <category lang="pl">program publicystyczny</category>
   </programme>
   <programme channel="TVP.1.HD.pl" start="20261018130500 -0500" stop="20261018131500 -0500">
-    <title lang="pl">Sport</title>
+    <title lang="en">Sports</title>
     <desc lang="pl">Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.</desc>
     <category lang="pl">program sportowy</category>
   </programme>
@@ -2186,7 +2186,7 @@ Po tragicznych wydarzeniach, do których doszło w Otwocku, ranny Prot wpada w r
     <category lang="pl">magazyn</category>
   </programme>
   <programme channel="TVP.1.HD.pl" start="20261018221000 -0500" stop="20261018223000 -0500">
-    <title lang="pl">Pytanie dnia</title>
+    <title lang="en">Question of the day</title>
     <desc lang="pl">Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.</desc>
     <date>2026</date>
     <category lang="pl">program publicystyczny</category>
@@ -2474,18 +2474,18 @@ Aynur spędza coraz więcej czasu z Sinanem. Do tego ku jej radości komendant p
     <episode-num system="onscreen">E980</episode-num>
   </programme>
   <programme channel="TVP.1.HD.pl" start="20261019123000 -0500" stop="20261019125500 -0500">
-    <title lang="pl">Program informacyjny 19.30</title>
+    <title lang="en">Information program 19.30</title>
     <desc lang="pl">Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.</desc>
     <category lang="pl">program informacyjny</category>
   </programme>
   <programme channel="TVP.1.HD.pl" start="20261019125500 -0500" stop="20261019131000 -0500">
-    <title lang="pl">Pytanie dnia</title>
+    <title lang="en">Question of the day</title>
     <desc lang="pl">Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.</desc>
     <date>2026</date>
     <category lang="pl">program publicystyczny</category>
   </programme>
   <programme channel="TVP.1.HD.pl" start="20261019131000 -0500" stop="20261019131500 -0500">
-    <title lang="pl">Sport</title>
+    <title lang="en">Sports</title>
     <desc lang="pl">Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.</desc>
     <category lang="pl">program sportowy</category>
   </programme>
@@ -2608,7 +2608,7 @@ Aynur spędza coraz więcej czasu z Sinanem. Do tego ku jej radości komendant p
     <category lang="pl">program publicystyczny</category>
   </programme>
   <programme channel="TVP.1.HD.pl" start="20261019221500 -0500" stop="20261019223500 -0500">
-    <title lang="pl">Pytanie dnia</title>
+    <title lang="en">Question of the day</title>
     <desc lang="pl">Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.</desc>
     <date>2026</date>
     <category lang="pl">program publicystyczny</category>
@@ -2895,18 +2895,18 @@ W Łodzi grasuje nieuchwytny seryjny morderca. Psychopata zabija swoje ofiary st
     <episode-num system="onscreen">E981</episode-num>
   </programme>
   <programme channel="TVP.1.HD.pl" start="20261020123000 -0500" stop="20261020125500 -0500">
-    <title lang="pl">Program informacyjny 19.30</title>
+    <title lang="en">Information program 19.30</title>
     <desc lang="pl">Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.</desc>
     <category lang="pl">program informacyjny</category>
   </programme>
   <programme channel="TVP.1.HD.pl" start="20261020125500 -0500" stop="20261020131000 -0500">
-    <title lang="pl">Pytanie dnia</title>
+    <title lang="en">Question of the day</title>
     <desc lang="pl">Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.</desc>
     <date>2026</date>
     <category lang="pl">program publicystyczny</category>
   </programme>
   <programme channel="TVP.1.HD.pl" start="20261020131000 -0500" stop="20261020131500 -0500">
-    <title lang="pl">Sport</title>
+    <title lang="en">Sports</title>
     <desc lang="pl">Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.</desc>
     <category lang="pl">program sportowy</category>
   </programme>
@@ -3022,7 +3022,7 @@ W Łodzi grasuje nieuchwytny seryjny morderca. Psychopata zabija swoje ofiary st
     <category lang="pl">program publicystyczny</category>
   </programme>
   <programme channel="TVP.1.HD.pl" start="20261020221500 -0500" stop="20261020223500 -0500">
-    <title lang="pl">Pytanie dnia</title>
+    <title lang="en">Question of the day</title>
     <desc lang="pl">Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.</desc>
     <date>2026</date>
     <category lang="pl">program publicystyczny</category>
@@ -3309,18 +3309,18 @@ Lucyna i Puchała nie mogą odnaleźć się w pracy od czasu śmierci Bromskiego
     <episode-num system="onscreen">E982</episode-num>
   </programme>
   <programme channel="TVP.1.HD.pl" start="20261021123000 -0500" stop="20261021125500 -0500">
-    <title lang="pl">Program informacyjny 19.30</title>
+    <title lang="en">Information program 19.30</title>
     <desc lang="pl">Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.</desc>
     <category lang="pl">program informacyjny</category>
   </programme>
   <programme channel="TVP.1.HD.pl" start="20261021125500 -0500" stop="20261021131000 -0500">
-    <title lang="pl">Pytanie dnia</title>
+    <title lang="en">Question of the day</title>
     <desc lang="pl">Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.</desc>
     <date>2026</date>
     <category lang="pl">program publicystyczny</category>
   </programme>
   <programme channel="TVP.1.HD.pl" start="20261021131000 -0500" stop="20261021131500 -0500">
-    <title lang="pl">Sport</title>
+    <title lang="en">Sports</title>
     <desc lang="pl">Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.</desc>
     <category lang="pl">program sportowy</category>
   </programme>
@@ -3422,7 +3422,7 @@ Lucyna i Puchała nie mogą odnaleźć się w pracy od czasu śmierci Bromskiego
     <category lang="pl">program publicystyczny</category>
   </programme>
   <programme channel="TVP.1.HD.pl" start="20261021221000 -0500" stop="20261021223000 -0500">
-    <title lang="pl">Pytanie dnia</title>
+    <title lang="en">Question of the day</title>
     <desc lang="pl">Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.</desc>
     <date>2026</date>
     <category lang="pl">program publicystyczny</category>
@@ -3708,18 +3708,18 @@ Celia i ojciec Telmo próbują odwieść Lucíę od Samuela, przekonując ją, �
     <episode-num system="onscreen">E983</episode-num>
   </programme>
   <programme channel="TVP.1.HD.pl" start="20261022123000 -0500" stop="20261022125500 -0500">
-    <title lang="pl">Program informacyjny 19.30</title>
+    <title lang="en">Information program 19.30</title>
     <desc lang="pl">Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.</desc>
     <category lang="pl">program informacyjny</category>
   </programme>
   <programme channel="TVP.1.HD.pl" start="20261022125500 -0500" stop="20261022131000 -0500">
-    <title lang="pl">Pytanie dnia</title>
+    <title lang="en">Question of the day</title>
     <desc lang="pl">Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.</desc>
     <date>2026</date>
     <category lang="pl">program publicystyczny</category>
   </programme>
   <programme channel="TVP.1.HD.pl" start="20261022131000 -0500" stop="20261022131500 -0500">
-    <title lang="pl">Sport</title>
+    <title lang="en">Sports</title>
     <desc lang="pl">Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.</desc>
     <category lang="pl">program sportowy</category>
   </programme>
@@ -3836,7 +3836,7 @@ Po tragicznych wydarzeniach, do których doszło w Otwocku, ranny Prot wpada w r
     <category lang="pl">program publicystyczny</category>
   </programme>
   <programme channel="TVP.1.HD.pl" start="20261022221000 -0500" stop="20261022223500 -0500">
-    <title lang="pl">Pytanie dnia</title>
+    <title lang="en">Question of the day</title>
     <desc lang="pl">Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.</desc>
     <date>2026</date>
     <category lang="pl">program publicystyczny</category>
@@ -4109,7 +4109,7 @@ Mark prowadzi dochodzenie w sprawie zaginięcia ojca byłej kochanki Marka Kento
     <episode-num system="onscreen">E957</episode-num>
   </programme>
   <programme channel="TVP.2.HD.pl" start="20261018223500 -0500" stop="20261018232000 -0500">
-    <title lang="pl">M jak miłość</title>
+    <title lang="en">M for love</title>
     <desc lang="pl">Lenka i Sara idą razem na zakupy. Zduńska poznaje największy i zarazem najbardziej bolesny sekret nowej koleżanki. Tymczasem ojciec Sary, Darek Hoffman, wprasza się do Piotrka i Kingi na kolację. Podczas wspólnie spędzonego, wesołego wieczoru, stara się oczarować gospodarzy. Paweł przygotowuje niespodziankę dla Franki. Sprowadza do Polski Basię, za którą jego żona bardzo się stęskniła. Magda zajmuje się Nadią w Siedlisku. Nie ma pojęcia, że Święcicki nie zapomniał o zemście. Zaślepiony alkoholem i wściekłością sąsiad Kacpra postanawia przypuścić kolejny atak.</desc>
     <credits>
       <actor>Barbara Mostowiak - Teresa Lipowska</actor>
@@ -4338,7 +4338,7 @@ Mark prowadzi dochodzenie w sprawie zaginięcia ojca byłej kochanki Marka Kento
     <episode-num system="onscreen">E1682</episode-num>
   </programme>
   <programme channel="TVP.2.HD.pl" start="20261019135000 -0500" stop="20261019145000 -0500">
-    <title lang="pl">M jak miłość</title>
+    <title lang="en">M for love</title>
     <desc lang="pl">Olek naciska na Anetę, by wreszcie wyznała, kto jest ojcem małej Zosi. Tymczasem Jakub spotyka się rano z Kasią w sprawie naszyjnika znalezionego u Sowińskiego. Sanocka udaje, że nie ma pojęcia, jak biżuteria trafiła do sypialni jej szefa. Prosi byłego męża o dyskrecję. Później Karski idzie na randkę z Martyną. Przypadkiem wpada na Igę, co wywołuje zazdrość także u Kamy i irytuje Marcina. W agencji Chodakowski zaczyna pracę z nowym, utalentowanym detektywem Tomkiem. Kinga i Piotrek planują wysłać Marię do spa na Mazurach. Rogowska na Deszczowej opowiada Filarskiej o życiowym kryzysie.</desc>
     <credits>
       <actor>Barbara Mostowiak - Teresa Lipowska</actor>
@@ -4501,7 +4501,7 @@ Mark prowadzi dochodzenie w sprawie zaginięcia ojca byłej kochanki Marka Kento
     <episode-num system="onscreen">E958</episode-num>
   </programme>
   <programme channel="TVP.2.HD.pl" start="20261019223500 -0500" stop="20261019232500 -0500">
-    <title lang="pl">M jak miłość</title>
+    <title lang="en">M for love</title>
     <desc lang="pl">Po wydarzeniach w Siedlisku i ataku na Magdę podejrzenia policjantów zostają skierowane na Święcickiego. Udaje mu się jednak wyprowadzić w pole przesłuchujących go Natalię i Rafała. Zdesperowany Budzyński zwraca się po pomoc do Marcina. Tymczasem Kama marzy o ślubie z Chodakowskim. Rozmawia na ten temat z siostrą, Anią. W tej kwestii wspierają ją również Barbara i Szymek. Do Mostowiakowej przychodzi też ksiądz Grzegorz, który cały czas zmaga się z osaczającą go Kisielową. Basia przygotowuje się do egzaminu na prawo jazdy. Dopingują ją Maria i Judyta.</desc>
     <credits>
       <actor>Barbara Mostowiak - Teresa Lipowska</actor>
@@ -4733,7 +4733,7 @@ Mark prowadzi dochodzenie w sprawie zaginięcia ojca byłej kochanki Marka Kento
     <episode-num system="onscreen">E1683</episode-num>
   </programme>
   <programme channel="TVP.2.HD.pl" start="20261020135000 -0500" stop="20261020145000 -0500">
-    <title lang="pl">M jak miłość</title>
+    <title lang="en">M for love</title>
     <desc lang="pl">Anita jest bliska załamania, gdy kolejne testy potwierdzają, że wciąż nie jest w ciąży. Prowadzi to do jej kolejnej ostrej kłótni z Kamilem. Tymczasem Magda sama sięga po jeden z testów należących do przyjaciółki. Wynik wprawia ją w osłupienie. Do Budzyńskiej niespodziewanie odzywa się też była więźniarka Elżbieta, prosząc o ochronę przed brutalnym, uzależnionym od alkoholu mężem, który chce się na niej zemścić. Magda zabiera kobietę do Grabiny, ale agresor rusza ich tropem. W tym samym czasie pani Ola coraz bardziej martwi się o Wernera. Jest przekonana, że po rozstaniu z Sylwią prawnik myśli o samobójstwie.</desc>
     <credits>
       <actor>Barbara Mostowiak - Teresa Lipowska</actor>
@@ -4880,7 +4880,7 @@ Mark prowadzi dochodzenie w sprawie zaginięcia ojca byłej kochanki Marka Kento
     <episode-num system="onscreen">E959</episode-num>
   </programme>
   <programme channel="TVP.2.HD.pl" start="20261020223500 -0500" stop="20261020232500 -0500">
-    <title lang="pl">M jak miłość</title>
+    <title lang="en">M for love</title>
     <desc lang="pl">Dalsze perypetie rodziny Mostowiaków. Widzowie przekonają się, jak potoczą się losy bliźniaków Pawła i Piotra, Marcina Chodakowskiego, Marii i Artura Rogowskich, a także ich bliskich oraz przyjaciół.</desc>
     <credits>
       <actor>Barbara Mostowiak - Teresa Lipowska</actor>
@@ -5247,7 +5247,7 @@ Mark prowadzi dochodzenie w sprawie zaginięcia ojca byłej kochanki Marka Kento
     <episode-num system="onscreen">E960</episode-num>
   </programme>
   <programme channel="TVP.2.HD.pl" start="20261021223000 -0500" stop="20261021232000 -0500">
-    <title lang="pl">M jak miłość</title>
+    <title lang="en">M for love</title>
     <desc lang="pl">Iza i Radek godzą się, a kobieta zabiera dzieci do siebie. Marcin nie przestaje martwić się o bezpieczeństwo swojej rodziny. Kama zaczyna interesować się pracą ukochanego. Postanawia pomóc Chodakowskiemu w kolejnym śledztwie. Olek, który niedawno przeszedł covid, mierzy się z powikłaniami po chorobie. Mimo protestów Anety lekarz stara się wrócić do pracy. Po kilku godzinach zdaje jednak sobie sprawę z tego, że ma poważne problemy z pamięcią i koncentracją. Zwierza się Argasińskiemu, że nie czuje się do końca sobą. Jakub, który nie może przestać myśleć o Kasi, sięga po alkohol. Przyłapuje go na tym Martyna. Prosi przyjaciela, by nie popełnił życiowego błędu, jak ona w przeszłości.</desc>
     <credits>
       <actor>Barbara Mostowiak - Teresa Lipowska</actor>
@@ -5620,7 +5620,7 @@ Mark prowadzi dochodzenie w sprawie zaginięcia ojca byłej kochanki Marka Kento
     <episode-num system="onscreen">E961</episode-num>
   </programme>
   <programme channel="TVP.2.HD.pl" start="20261022223000 -0500" stop="20261022232000 -0500">
-    <title lang="pl">M jak miłość</title>
+    <title lang="en">M for love</title>
     <desc lang="pl">Franka zdradza Marii, że śnił jej się poród. Po kilku godzinach Zduńska naprawdę dostaje skurczów i zostaje przewieziona do szpitala na sygnale, w asyście strażaków. Rogowska dowiaduje się również, że jej siostra Marta postanowiła wyjechać do Włoch, by pomóc tam Łukaszowi i Patrycji. Bartek mówi Tomaszowi, że zamierza otworzyć fundację, a majątek Doroty przeznaczyć dla chorych, dla których jedyną nadzieją są nowe, eksperymentalne terapie. Podczas wizyty do Warszawy Lisiecki spotyka się również z Adą. Ta uświadamia sobie, że wciąż kocha on Kawecką. Namawia przyjaciółkę, by powiedziała w końcu mężowi, że żyje.</desc>
     <credits>
       <actor>Barbara Mostowiak - Teresa Lipowska</actor>
@@ -5861,18 +5861,18 @@ Mark prowadzi dochodzenie w sprawie zaginięcia ojca byłej kochanki Marka Kento
     <episode-num system="onscreen">E5989</episode-num>
   </programme>
   <programme channel="TVP.1.pl" start="20261018123000 -0500" stop="20261018125500 -0500">
-    <title lang="pl">Program informacyjny 19.30</title>
+    <title lang="en">Information program 19.30</title>
     <desc lang="pl">Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.</desc>
     <category lang="pl">program informacyjny</category>
   </programme>
   <programme channel="TVP.1.pl" start="20261018125500 -0500" stop="20261018130500 -0500">
-    <title lang="pl">Pytanie dnia</title>
+    <title lang="en">Question of the day</title>
     <desc lang="pl">Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.</desc>
     <date>2026</date>
     <category lang="pl">program publicystyczny</category>
   </programme>
   <programme channel="TVP.1.pl" start="20261018130500 -0500" stop="20261018131500 -0500">
-    <title lang="pl">Sport</title>
+    <title lang="en">Sports</title>
     <desc lang="pl">Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.</desc>
     <category lang="pl">program sportowy</category>
   </programme>
@@ -5977,7 +5977,7 @@ Po tragicznych wydarzeniach, do których doszło w Otwocku, ranny Prot wpada w r
     <category lang="pl">magazyn</category>
   </programme>
   <programme channel="TVP.1.pl" start="20261018221000 -0500" stop="20261018223000 -0500">
-    <title lang="pl">Pytanie dnia</title>
+    <title lang="en">Question of the day</title>
     <desc lang="pl">Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.</desc>
     <date>2026</date>
     <category lang="pl">program publicystyczny</category>
@@ -6265,18 +6265,18 @@ Aynur spędza coraz więcej czasu z Sinanem. Do tego ku jej radości komendant p
     <episode-num system="onscreen">E980</episode-num>
   </programme>
   <programme channel="TVP.1.pl" start="20261019123000 -0500" stop="20261019125500 -0500">
-    <title lang="pl">Program informacyjny 19.30</title>
+    <title lang="en">Information program 19.30</title>
     <desc lang="pl">Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.</desc>
     <category lang="pl">program informacyjny</category>
   </programme>
   <programme channel="TVP.1.pl" start="20261019125500 -0500" stop="20261019131000 -0500">
-    <title lang="pl">Pytanie dnia</title>
+    <title lang="en">Question of the day</title>
     <desc lang="pl">Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.</desc>
     <date>2026</date>
     <category lang="pl">program publicystyczny</category>
   </programme>
   <programme channel="TVP.1.pl" start="20261019131000 -0500" stop="20261019131500 -0500">
-    <title lang="pl">Sport</title>
+    <title lang="en">Sports</title>
     <desc lang="pl">Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.</desc>
     <category lang="pl">program sportowy</category>
   </programme>
@@ -6399,7 +6399,7 @@ Aynur spędza coraz więcej czasu z Sinanem. Do tego ku jej radości komendant p
     <category lang="pl">program publicystyczny</category>
   </programme>
   <programme channel="TVP.1.pl" start="20261019221500 -0500" stop="20261019223500 -0500">
-    <title lang="pl">Pytanie dnia</title>
+    <title lang="en">Question of the day</title>
     <desc lang="pl">Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.</desc>
     <date>2026</date>
     <category lang="pl">program publicystyczny</category>
@@ -6686,18 +6686,18 @@ W Łodzi grasuje nieuchwytny seryjny morderca. Psychopata zabija swoje ofiary st
     <episode-num system="onscreen">E981</episode-num>
   </programme>
   <programme channel="TVP.1.pl" start="20261020123000 -0500" stop="20261020125500 -0500">
-    <title lang="pl">Program informacyjny 19.30</title>
+    <title lang="en">Information program 19.30</title>
     <desc lang="pl">Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.</desc>
     <category lang="pl">program informacyjny</category>
   </programme>
   <programme channel="TVP.1.pl" start="20261020125500 -0500" stop="20261020131000 -0500">
-    <title lang="pl">Pytanie dnia</title>
+    <title lang="en">Question of the day</title>
     <desc lang="pl">Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.</desc>
     <date>2026</date>
     <category lang="pl">program publicystyczny</category>
   </programme>
   <programme channel="TVP.1.pl" start="20261020131000 -0500" stop="20261020131500 -0500">
-    <title lang="pl">Sport</title>
+    <title lang="en">Sports</title>
     <desc lang="pl">Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.</desc>
     <category lang="pl">program sportowy</category>
   </programme>
@@ -6813,7 +6813,7 @@ W Łodzi grasuje nieuchwytny seryjny morderca. Psychopata zabija swoje ofiary st
     <category lang="pl">program publicystyczny</category>
   </programme>
   <programme channel="TVP.1.pl" start="20261020221500 -0500" stop="20261020223500 -0500">
-    <title lang="pl">Pytanie dnia</title>
+    <title lang="en">Question of the day</title>
     <desc lang="pl">Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.</desc>
     <date>2026</date>
     <category lang="pl">program publicystyczny</category>
@@ -7100,18 +7100,18 @@ Lucyna i Puchała nie mogą odnaleźć się w pracy od czasu śmierci Bromskiego
     <episode-num system="onscreen">E982</episode-num>
   </programme>
   <programme channel="TVP.1.pl" start="20261021123000 -0500" stop="20261021125500 -0500">
-    <title lang="pl">Program informacyjny 19.30</title>
+    <title lang="en">Information program 19.30</title>
     <desc lang="pl">Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.</desc>
     <category lang="pl">program informacyjny</category>
   </programme>
   <programme channel="TVP.1.pl" start="20261021125500 -0500" stop="20261021131000 -0500">
-    <title lang="pl">Pytanie dnia</title>
+    <title lang="en">Question of the day</title>
     <desc lang="pl">Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.</desc>
     <date>2026</date>
     <category lang="pl">program publicystyczny</category>
   </programme>
   <programme channel="TVP.1.pl" start="20261021131000 -0500" stop="20261021131500 -0500">
-    <title lang="pl">Sport</title>
+    <title lang="en">Sports</title>
     <desc lang="pl">Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.</desc>
     <category lang="pl">program sportowy</category>
   </programme>
@@ -7213,7 +7213,7 @@ Lucyna i Puchała nie mogą odnaleźć się w pracy od czasu śmierci Bromskiego
     <category lang="pl">program publicystyczny</category>
   </programme>
   <programme channel="TVP.1.pl" start="20261021221000 -0500" stop="20261021223000 -0500">
-    <title lang="pl">Pytanie dnia</title>
+    <title lang="en">Question of the day</title>
     <desc lang="pl">Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.</desc>
     <date>2026</date>
     <category lang="pl">program publicystyczny</category>
@@ -7499,18 +7499,18 @@ Celia i ojciec Telmo próbują odwieść Lucíę od Samuela, przekonując ją, �
     <episode-num system="onscreen">E983</episode-num>
   </programme>
   <programme channel="TVP.1.pl" start="20261022123000 -0500" stop="20261022125500 -0500">
-    <title lang="pl">Program informacyjny 19.30</title>
+    <title lang="en">Information program 19.30</title>
     <desc lang="pl">Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.</desc>
     <category lang="pl">program informacyjny</category>
   </programme>
   <programme channel="TVP.1.pl" start="20261022125500 -0500" stop="20261022131000 -0500">
-    <title lang="pl">Pytanie dnia</title>
+    <title lang="en">Question of the day</title>
     <desc lang="pl">Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.</desc>
     <date>2026</date>
     <category lang="pl">program publicystyczny</category>
   </programme>
   <programme channel="TVP.1.pl" start="20261022131000 -0500" stop="20261022131500 -0500">
-    <title lang="pl">Sport</title>
+    <title lang="en">Sports</title>
     <desc lang="pl">Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.</desc>
     <category lang="pl">program sportowy</category>
   </programme>
@@ -7627,7 +7627,7 @@ Po tragicznych wydarzeniach, do których doszło w Otwocku, ranny Prot wpada w r
     <category lang="pl">program publicystyczny</category>
   </programme>
   <programme channel="TVP.1.pl" start="20261022221000 -0500" stop="20261022223500 -0500">
-    <title lang="pl">Pytanie dnia</title>
+    <title lang="en">Question of the day</title>
     <desc lang="pl">Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.</desc>
     <date>2026</date>
     <category lang="pl">program publicystyczny</category>
@@ -7900,7 +7900,7 @@ Mark prowadzi dochodzenie w sprawie zaginięcia ojca byłej kochanki Marka Kento
     <episode-num system="onscreen">E957</episode-num>
   </programme>
   <programme channel="TVP.2.pl" start="20261018223500 -0500" stop="20261018232000 -0500">
-    <title lang="pl">M jak miłość</title>
+    <title lang="en">M for love</title>
     <desc lang="pl">Lenka i Sara idą razem na zakupy. Zduńska poznaje największy i zarazem najbardziej bolesny sekret nowej koleżanki. Tymczasem ojciec Sary, Darek Hoffman, wprasza się do Piotrka i Kingi na kolację. Podczas wspólnie spędzonego, wesołego wieczoru, stara się oczarować gospodarzy. Paweł przygotowuje niespodziankę dla Franki. Sprowadza do Polski Basię, za którą jego żona bardzo się stęskniła. Magda zajmuje się Nadią w Siedlisku. Nie ma pojęcia, że Święcicki nie zapomniał o zemście. Zaślepiony alkoholem i wściekłością sąsiad Kacpra postanawia przypuścić kolejny atak.</desc>
     <credits>
       <actor>Barbara Mostowiak - Teresa Lipowska</actor>
@@ -8129,7 +8129,7 @@ Mark prowadzi dochodzenie w sprawie zaginięcia ojca byłej kochanki Marka Kento
     <episode-num system="onscreen">E1682</episode-num>
   </programme>
   <programme channel="TVP.2.pl" start="20261019135000 -0500" stop="20261019145000 -0500">
-    <title lang="pl">M jak miłość</title>
+    <title lang="en">M for love</title>
     <desc lang="pl">Olek naciska na Anetę, by wreszcie wyznała, kto jest ojcem małej Zosi. Tymczasem Jakub spotyka się rano z Kasią w sprawie naszyjnika znalezionego u Sowińskiego. Sanocka udaje, że nie ma pojęcia, jak biżuteria trafiła do sypialni jej szefa. Prosi byłego męża o dyskrecję. Później Karski idzie na randkę z Martyną. Przypadkiem wpada na Igę, co wywołuje zazdrość także u Kamy i irytuje Marcina. W agencji Chodakowski zaczyna pracę z nowym, utalentowanym detektywem Tomkiem. Kinga i Piotrek planują wysłać Marię do spa na Mazurach. Rogowska na Deszczowej opowiada Filarskiej o życiowym kryzysie.</desc>
     <credits>
       <actor>Barbara Mostowiak - Teresa Lipowska</actor>
@@ -8292,7 +8292,7 @@ Mark prowadzi dochodzenie w sprawie zaginięcia ojca byłej kochanki Marka Kento
     <episode-num system="onscreen">E958</episode-num>
   </programme>
   <programme channel="TVP.2.pl" start="20261019223500 -0500" stop="20261019232500 -0500">
-    <title lang="pl">M jak miłość</title>
+    <title lang="en">M for love</title>
     <desc lang="pl">Po wydarzeniach w Siedlisku i ataku na Magdę podejrzenia policjantów zostają skierowane na Święcickiego. Udaje mu się jednak wyprowadzić w pole przesłuchujących go Natalię i Rafała. Zdesperowany Budzyński zwraca się po pomoc do Marcina. Tymczasem Kama marzy o ślubie z Chodakowskim. Rozmawia na ten temat z siostrą, Anią. W tej kwestii wspierają ją również Barbara i Szymek. Do Mostowiakowej przychodzi też ksiądz Grzegorz, który cały czas zmaga się z osaczającą go Kisielową. Basia przygotowuje się do egzaminu na prawo jazdy. Dopingują ją Maria i Judyta.</desc>
     <credits>
       <actor>Barbara Mostowiak - Teresa Lipowska</actor>
@@ -8524,7 +8524,7 @@ Mark prowadzi dochodzenie w sprawie zaginięcia ojca byłej kochanki Marka Kento
     <episode-num system="onscreen">E1683</episode-num>
   </programme>
   <programme channel="TVP.2.pl" start="20261020135000 -0500" stop="20261020145000 -0500">
-    <title lang="pl">M jak miłość</title>
+    <title lang="en">M for love</title>
     <desc lang="pl">Anita jest bliska załamania, gdy kolejne testy potwierdzają, że wciąż nie jest w ciąży. Prowadzi to do jej kolejnej ostrej kłótni z Kamilem. Tymczasem Magda sama sięga po jeden z testów należących do przyjaciółki. Wynik wprawia ją w osłupienie. Do Budzyńskiej niespodziewanie odzywa się też była więźniarka Elżbieta, prosząc o ochronę przed brutalnym, uzależnionym od alkoholu mężem, który chce się na niej zemścić. Magda zabiera kobietę do Grabiny, ale agresor rusza ich tropem. W tym samym czasie pani Ola coraz bardziej martwi się o Wernera. Jest przekonana, że po rozstaniu z Sylwią prawnik myśli o samobójstwie.</desc>
     <credits>
       <actor>Barbara Mostowiak - Teresa Lipowska</actor>
@@ -8671,7 +8671,7 @@ Mark prowadzi dochodzenie w sprawie zaginięcia ojca byłej kochanki Marka Kento
     <episode-num system="onscreen">E959</episode-num>
   </programme>
   <programme channel="TVP.2.pl" start="20261020223500 -0500" stop="20261020232500 -0500">
-    <title lang="pl">M jak miłość</title>
+    <title lang="en">M for love</title>
     <desc lang="pl">Dalsze perypetie rodziny Mostowiaków. Widzowie przekonają się, jak potoczą się losy bliźniaków Pawła i Piotra, Marcina Chodakowskiego, Marii i Artura Rogowskich, a także ich bliskich oraz przyjaciół.</desc>
     <credits>
       <actor>Barbara Mostowiak - Teresa Lipowska</actor>
@@ -9038,7 +9038,7 @@ Mark prowadzi dochodzenie w sprawie zaginięcia ojca byłej kochanki Marka Kento
     <episode-num system="onscreen">E960</episode-num>
   </programme>
   <programme channel="TVP.2.pl" start="20261021223000 -0500" stop="20261021232000 -0500">
-    <title lang="pl">M jak miłość</title>
+    <title lang="en">M for love</title>
     <desc lang="pl">Iza i Radek godzą się, a kobieta zabiera dzieci do siebie. Marcin nie przestaje martwić się o bezpieczeństwo swojej rodziny. Kama zaczyna interesować się pracą ukochanego. Postanawia pomóc Chodakowskiemu w kolejnym śledztwie. Olek, który niedawno przeszedł covid, mierzy się z powikłaniami po chorobie. Mimo protestów Anety lekarz stara się wrócić do pracy. Po kilku godzinach zdaje jednak sobie sprawę z tego, że ma poważne problemy z pamięcią i koncentracją. Zwierza się Argasińskiemu, że nie czuje się do końca sobą. Jakub, który nie może przestać myśleć o Kasi, sięga po alkohol. Przyłapuje go na tym Martyna. Prosi przyjaciela, by nie popełnił życiowego błędu, jak ona w przeszłości.</desc>
     <credits>
       <actor>Barbara Mostowiak - Teresa Lipowska</actor>
@@ -9411,7 +9411,7 @@ Mark prowadzi dochodzenie w sprawie zaginięcia ojca byłej kochanki Marka Kento
     <episode-num system="onscreen">E961</episode-num>
   </programme>
   <programme channel="TVP.2.pl" start="20261022223000 -0500" stop="20261022232000 -0500">
-    <title lang="pl">M jak miłość</title>
+    <title lang="en">M for love</title>
     <desc lang="pl">Franka zdradza Marii, że śnił jej się poród. Po kilku godzinach Zduńska naprawdę dostaje skurczów i zostaje przewieziona do szpitala na sygnale, w asyście strażaków. Rogowska dowiaduje się również, że jej siostra Marta postanowiła wyjechać do Włoch, by pomóc tam Łukaszowi i Patrycji. Bartek mówi Tomaszowi, że zamierza otworzyć fundację, a majątek Doroty przeznaczyć dla chorych, dla których jedyną nadzieją są nowe, eksperymentalne terapie. Podczas wizyty do Warszawy Lisiecki spotyka się również z Adą. Ta uświadamia sobie, że wciąż kocha on Kawecką. Namawia przyjaciółkę, by powiedziała w końcu mężowi, że żyje.</desc>
     <credits>
       <actor>Barbara Mostowiak - Teresa Lipowska</actor>
@@ -9518,19 +9518,19 @@ Mark prowadzi dochodzenie w sprawie zaginięcia ojca byłej kochanki Marka Kento
     <category lang="pl">magazyn</category>
   </programme>
   <programme channel="TVP.Polonia.pl" start="20261018055000 -0500" stop="20261018060000 -0500">
-    <title lang="pl">Słowo na niedzielę</title>
+    <title lang="en">Word for Sunday</title>
     <desc lang="pl">Program poświęcony tematyce religijnej, w którym omawiane są fragmenty Pisma Świętego czytane w czasie mszy świętej w najbliższą niedzielę. Zachęca, by Ewangelia stała się codzienną lekturą.</desc>
     <category lang="pl">program religijny</category>
   </programme>
   <programme channel="TVP.Polonia.pl" start="20261018060000 -0500" stop="20261018071500 -0500">
-    <title lang="pl">Transmisja mszy świętej z kościoła pw. Świętych Polskich Braci Męczenników w Bydgoszczy</title>
+    <title lang="en">Transmission of the Holy Mass from the Church of the Holy Polish Martyrs in Bydgoszcz</title>
     <category lang="pl">program religijny</category>
   </programme>
   <programme channel="TVP.Polonia.pl" start="20261018071500 -0500" stop="20261018072500 -0500">
-    <title lang="pl">Piłka nożna: Betclic 1. Liga - studio</title>
+    <title lang="en">Football: Betclic 1st League - Studio</title>
   </programme>
   <programme channel="TVP.Polonia.pl" start="20261018072500 -0500" stop="20261018100000 -0500">
-    <title lang="pl">Piłka nożna: Betclic 1. Liga - mecz: ŁKS Łódź - Podbeskidzie Bielsko-Biała</title>
+    <title lang="en">Football: Betclic 1. League - match: ŁKS Łódź - Podbeskidzie Bielsko-Biała</title>
   </programme>
   <programme channel="TVP.Polonia.pl" start="20261018100000 -0500" stop="20261018102500 -0500">
     <title lang="pl">Teleexpress</title>
@@ -9538,7 +9538,7 @@ Mark prowadzi dochodzenie w sprawie zaginięcia ojca byłej kochanki Marka Kento
     <category lang="pl">program informacyjny</category>
   </programme>
   <programme channel="TVP.Polonia.pl" start="20261018102500 -0500" stop="20261018112000 -0500">
-    <title lang="pl">M jak miłość</title>
+    <title lang="en">M for love</title>
     <desc lang="pl">Paweł organizuje casting na nianię dla Antosia. Daje tym jasno do zrozumienia, że nie chce, by chłopiec spędzał zbyt wiele czasu z Agnes. W tym samym czasie Dominik Walat znów doprowadza do wypadku. Tym razem poszkodowanymi są Agnes, Maria i przypadkowy rowerzysta. Wieści o wybrykach chłopaka doprowadzają Zduńskiego do szału i rozpalają w nim na nowo pragnienie zemsty za śmierć Franki. Magda i Andrzej jadą do sądu na finał procesu Jabłońskiego, licząc na ostateczne rozstrzygnięcie. Tymczasem Werner zaskakuje Sylwię propozycją podpisania intercyzy zamiast klasycznych oświadczyn. Gdy dodatkowo wypomina jej tykający zegar biologiczny, Kostecka traci cierpliwość i podejmuje przełomową decyzję.</desc>
     <credits>
       <actor>Barbara Mostowiak - Teresa Lipowska</actor>
@@ -9553,12 +9553,12 @@ Mark prowadzi dochodzenie w sprawie zaginięcia ojca byłej kochanki Marka Kento
     <episode-num system="onscreen">E1939</episode-num>
   </programme>
   <programme channel="TVP.Polonia.pl" start="20261018112000 -0500" stop="20261018121500 -0500">
-    <title lang="pl">Srebrny Montreal 50 lat później</title>
+    <title lang="en">Silver Montreal 50 years later</title>
     <date>2026</date>
     <category lang="pl">reportaż</category>
   </programme>
   <programme channel="TVP.Polonia.pl" start="20261018121500 -0500" stop="20261018123000 -0500">
-    <title lang="pl">63. KFPP w Opolu - Autobiografia. Jubileusz Bogdana Olewicza</title>
+    <title lang="en">63. KFPP in Opole - Autobiography. Jubilee of Bogdan Olewicz</title>
     <desc lang="pl">Widowisko poświęcone wybitnemu autorowi tekstów piosenek, z okazji 80. rocznicy jego urodzin. Bogdan Olewicz napisał słowa do takich hitów, jak "Autobiografia", "Wielka miłość", "Jesteś lekiem na całe zło", "Nie płacz Ewka", "Niewiele ci mogę dać", "Rysa na szkle", "Kołysanka dla nieznajomej" czy "Tylko mnie poproś do tańca". Wystąpią m.in. Perfect i Łukasz Drapała, Natalia Kukulska, Kuba Badach, Krzysztof Cugowski i Zespół Mistrzów, Doda, Kamil Bednarek, Alicja Szemplińska, Mietek Szcześniak, Alicja Majewska i Włodzimierz Korcz, Urszula, Golden Life, Universe, Andrzej Rybiński i Halina Mlynkova.</desc>
     <credits>
       <director>Marcin Kołaczkowski</director>
@@ -9567,18 +9567,18 @@ Mark prowadzi dochodzenie w sprawie zaginięcia ojca byłej kochanki Marka Kento
     <category lang="pl">koncert</category>
   </programme>
   <programme channel="TVP.Polonia.pl" start="20261018123000 -0500" stop="20261018125500 -0500">
-    <title lang="pl">Program informacyjny 19.30</title>
+    <title lang="en">Information program 19.30</title>
     <desc lang="pl">Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.</desc>
     <category lang="pl">program informacyjny</category>
   </programme>
   <programme channel="TVP.Polonia.pl" start="20261018125500 -0500" stop="20261018130500 -0500">
-    <title lang="pl">Pytanie dnia</title>
+    <title lang="en">Question of the day</title>
     <desc lang="pl">Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.</desc>
     <date>2026</date>
     <category lang="pl">program publicystyczny</category>
   </programme>
   <programme channel="TVP.Polonia.pl" start="20261018130500 -0500" stop="20261018131500 -0500">
-    <title lang="pl">Sport</title>
+    <title lang="en">Sports</title>
     <desc lang="pl">Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.</desc>
     <category lang="pl">magazyn sportowy</category>
   </programme>
@@ -9639,7 +9639,7 @@ Mark prowadzi dochodzenie w sprawie zaginięcia ojca byłej kochanki Marka Kento
     <episode-num system="onscreen">E28</episode-num>
   </programme>
   <programme channel="TVP.Polonia.pl" start="20261018174000 -0500" stop="20261018183000 -0500">
-    <title lang="pl">M jak miłość</title>
+    <title lang="en">M for love</title>
     <desc lang="pl">Paweł organizuje casting na nianię dla Antosia. Daje tym jasno do zrozumienia, że nie chce, by chłopiec spędzał zbyt wiele czasu z Agnes. W tym samym czasie Dominik Walat znów doprowadza do wypadku. Tym razem poszkodowanymi są Agnes, Maria i przypadkowy rowerzysta. Wieści o wybrykach chłopaka doprowadzają Zduńskiego do szału i rozpalają w nim na nowo pragnienie zemsty za śmierć Franki. Magda i Andrzej jadą do sądu na finał procesu Jabłońskiego, licząc na ostateczne rozstrzygnięcie. Tymczasem Werner zaskakuje Sylwię propozycją podpisania intercyzy zamiast klasycznych oświadczyn. Gdy dodatkowo wypomina jej tykający zegar biologiczny, Kostecka traci cierpliwość i podejmuje przełomową decyzję.</desc>
     <credits>
       <actor>Barbara Mostowiak - Teresa Lipowska</actor>
@@ -9654,18 +9654,18 @@ Mark prowadzi dochodzenie w sprawie zaginięcia ojca byłej kochanki Marka Kento
     <episode-num system="onscreen">E1939</episode-num>
   </programme>
   <programme channel="TVP.Polonia.pl" start="20261018183000 -0500" stop="20261018185500 -0500">
-    <title lang="pl">Program informacyjny 19.30</title>
+    <title lang="en">Information program 19.30</title>
     <desc lang="pl">Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.</desc>
     <category lang="pl">program informacyjny</category>
   </programme>
   <programme channel="TVP.Polonia.pl" start="20261018185500 -0500" stop="20261018190000 -0500">
-    <title lang="pl">Pytanie dnia</title>
+    <title lang="en">Question of the day</title>
     <desc lang="pl">Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.</desc>
     <date>2026</date>
     <category lang="pl">program publicystyczny</category>
   </programme>
   <programme channel="TVP.Polonia.pl" start="20261018190000 -0500" stop="20261018190400 -0500">
-    <title lang="pl">Sport</title>
+    <title lang="en">Sports</title>
     <desc lang="pl">Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.</desc>
     <category lang="pl">magazyn sportowy</category>
   </programme>
@@ -9954,18 +9954,18 @@ Mark prowadzi dochodzenie w sprawie zaginięcia ojca byłej kochanki Marka Kento
     <category lang="pl">cykl reportaży</category>
   </programme>
   <programme channel="TVP.Polonia.pl" start="20261019123000 -0500" stop="20261019125500 -0500">
-    <title lang="pl">Program informacyjny 19.30</title>
+    <title lang="en">Information program 19.30</title>
     <desc lang="pl">Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.</desc>
     <category lang="pl">program informacyjny</category>
   </programme>
   <programme channel="TVP.Polonia.pl" start="20261019125500 -0500" stop="20261019131000 -0500">
-    <title lang="pl">Pytanie dnia</title>
+    <title lang="en">Question of the day</title>
     <desc lang="pl">Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.</desc>
     <date>2026</date>
     <category lang="pl">program publicystyczny</category>
   </programme>
   <programme channel="TVP.Polonia.pl" start="20261019131000 -0500" stop="20261019131500 -0500">
-    <title lang="pl">Sport</title>
+    <title lang="en">Sports</title>
     <desc lang="pl">Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.</desc>
     <category lang="pl">magazyn sportowy</category>
   </programme>
@@ -10058,18 +10058,18 @@ Mark prowadzi dochodzenie w sprawie zaginięcia ojca byłej kochanki Marka Kento
     <episode-num system="onscreen">E7</episode-num>
   </programme>
   <programme channel="TVP.Polonia.pl" start="20261019183000 -0500" stop="20261019185500 -0500">
-    <title lang="pl">Program informacyjny 19.30</title>
+    <title lang="en">Information program 19.30</title>
     <desc lang="pl">Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.</desc>
     <category lang="pl">program informacyjny</category>
   </programme>
   <programme channel="TVP.Polonia.pl" start="20261019185500 -0500" stop="20261019190500 -0500">
-    <title lang="pl">Pytanie dnia</title>
+    <title lang="en">Question of the day</title>
     <desc lang="pl">Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.</desc>
     <date>2026</date>
     <category lang="pl">program publicystyczny</category>
   </programme>
   <programme channel="TVP.Polonia.pl" start="20261019190500 -0500" stop="20261019191000 -0500">
-    <title lang="pl">Sport</title>
+    <title lang="en">Sports</title>
     <desc lang="pl">Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.</desc>
     <category lang="pl">magazyn sportowy</category>
   </programme>
@@ -10321,18 +10321,18 @@ Mark prowadzi dochodzenie w sprawie zaginięcia ojca byłej kochanki Marka Kento
     <category lang="pl">cykl reportaży</category>
   </programme>
   <programme channel="TVP.Polonia.pl" start="20261020123000 -0500" stop="20261020125500 -0500">
-    <title lang="pl">Program informacyjny 19.30</title>
+    <title lang="en">Information program 19.30</title>
     <desc lang="pl">Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.</desc>
     <category lang="pl">program informacyjny</category>
   </programme>
   <programme channel="TVP.Polonia.pl" start="20261020125500 -0500" stop="20261020131000 -0500">
-    <title lang="pl">Pytanie dnia</title>
+    <title lang="en">Question of the day</title>
     <desc lang="pl">Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.</desc>
     <date>2026</date>
     <category lang="pl">program publicystyczny</category>
   </programme>
   <programme channel="TVP.Polonia.pl" start="20261020131000 -0500" stop="20261020131500 -0500">
-    <title lang="pl">Sport</title>
+    <title lang="en">Sports</title>
     <desc lang="pl">Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.</desc>
     <category lang="pl">magazyn sportowy</category>
   </programme>
@@ -10435,18 +10435,18 @@ Ania i Mania przygotowują się do matury. Po zakończeniu edukacji druga z bli�
     <episode-num system="onscreen">E199</episode-num>
   </programme>
   <programme channel="TVP.Polonia.pl" start="20261020183000 -0500" stop="20261020185500 -0500">
-    <title lang="pl">Program informacyjny 19.30</title>
+    <title lang="en">Information program 19.30</title>
     <desc lang="pl">Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.</desc>
     <category lang="pl">program informacyjny</category>
   </programme>
   <programme channel="TVP.Polonia.pl" start="20261020185500 -0500" stop="20261020190500 -0500">
-    <title lang="pl">Pytanie dnia</title>
+    <title lang="en">Question of the day</title>
     <desc lang="pl">Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.</desc>
     <date>2026</date>
     <category lang="pl">program publicystyczny</category>
   </programme>
   <programme channel="TVP.Polonia.pl" start="20261020190500 -0500" stop="20261020191000 -0500">
-    <title lang="pl">Sport</title>
+    <title lang="en">Sports</title>
     <desc lang="pl">Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.</desc>
     <category lang="pl">magazyn sportowy</category>
   </programme>
@@ -10720,18 +10720,18 @@ Ania i Mania przygotowują się do matury. Po zakończeniu edukacji druga z bli�
     <category lang="pl">cykl reportaży</category>
   </programme>
   <programme channel="TVP.Polonia.pl" start="20261021123000 -0500" stop="20261021125500 -0500">
-    <title lang="pl">Program informacyjny 19.30</title>
+    <title lang="en">Information program 19.30</title>
     <desc lang="pl">Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.</desc>
     <category lang="pl">program informacyjny</category>
   </programme>
   <programme channel="TVP.Polonia.pl" start="20261021125500 -0500" stop="20261021131000 -0500">
-    <title lang="pl">Pytanie dnia</title>
+    <title lang="en">Question of the day</title>
     <desc lang="pl">Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.</desc>
     <date>2026</date>
     <category lang="pl">program publicystyczny</category>
   </programme>
   <programme channel="TVP.Polonia.pl" start="20261021131000 -0500" stop="20261021131500 -0500">
-    <title lang="pl">Sport</title>
+    <title lang="en">Sports</title>
     <desc lang="pl">Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.</desc>
     <category lang="pl">magazyn sportowy</category>
   </programme>
@@ -10826,18 +10826,18 @@ Ania i Mania przygotowują się do matury. Po zakończeniu edukacji druga z bli�
     <episode-num system="onscreen">E10</episode-num>
   </programme>
   <programme channel="TVP.Polonia.pl" start="20261021183000 -0500" stop="20261021185500 -0500">
-    <title lang="pl">Program informacyjny 19.30</title>
+    <title lang="en">Information program 19.30</title>
     <desc lang="pl">Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.</desc>
     <category lang="pl">program informacyjny</category>
   </programme>
   <programme channel="TVP.Polonia.pl" start="20261021185500 -0500" stop="20261021190500 -0500">
-    <title lang="pl">Pytanie dnia</title>
+    <title lang="en">Question of the day</title>
     <desc lang="pl">Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.</desc>
     <date>2026</date>
     <category lang="pl">program publicystyczny</category>
   </programme>
   <programme channel="TVP.Polonia.pl" start="20261021190500 -0500" stop="20261021191000 -0500">
-    <title lang="pl">Sport</title>
+    <title lang="en">Sports</title>
     <desc lang="pl">Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.</desc>
     <category lang="pl">magazyn sportowy</category>
   </programme>
@@ -11097,18 +11097,18 @@ Do szpitala zostaje przywieziony człowiek, który celowo wywołał pożar w cen
     <category lang="pl">cykl reportaży</category>
   </programme>
   <programme channel="TVP.Polonia.pl" start="20261022123000 -0500" stop="20261022125500 -0500">
-    <title lang="pl">Program informacyjny 19.30</title>
+    <title lang="en">Information program 19.30</title>
     <desc lang="pl">Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.</desc>
     <category lang="pl">program informacyjny</category>
   </programme>
   <programme channel="TVP.Polonia.pl" start="20261022125500 -0500" stop="20261022131000 -0500">
-    <title lang="pl">Pytanie dnia</title>
+    <title lang="en">Question of the day</title>
     <desc lang="pl">Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.</desc>
     <date>2026</date>
     <category lang="pl">program publicystyczny</category>
   </programme>
   <programme channel="TVP.Polonia.pl" start="20261022131000 -0500" stop="20261022131500 -0500">
-    <title lang="pl">Sport</title>
+    <title lang="en">Sports</title>
     <desc lang="pl">Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.</desc>
     <category lang="pl">magazyn sportowy</category>
   </programme>
@@ -11187,18 +11187,18 @@ Basia powoli wraca do zdrowia. W obawie o bezpieczeństwo córki Olgierd wysyła
     <category lang="pl">cykl dokumentalny</category>
   </programme>
   <programme channel="TVP.Polonia.pl" start="20261022183000 -0500" stop="20261022185500 -0500">
-    <title lang="pl">Program informacyjny 19.30</title>
+    <title lang="en">Information program 19.30</title>
     <desc lang="pl">Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.</desc>
     <category lang="pl">program informacyjny</category>
   </programme>
   <programme channel="TVP.Polonia.pl" start="20261022185500 -0500" stop="20261022190500 -0500">
-    <title lang="pl">Pytanie dnia</title>
+    <title lang="en">Question of the day</title>
     <desc lang="pl">Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.</desc>
     <date>2026</date>
     <category lang="pl">program publicystyczny</category>
   </programme>
   <programme channel="TVP.Polonia.pl" start="20261022190500 -0500" stop="20261022191000 -0500">
-    <title lang="pl">Sport</title>
+    <title lang="en">Sports</title>
     <desc lang="pl">Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.</desc>
     <category lang="pl">magazyn sportowy</category>
   </programme>
@@ -11936,7 +11936,7 @@ Do komendy dzwoni kobieta, która widziała porwanie sąsiada. Białach i Bachle
     <episode-num system="onscreen">E1019</episode-num>
   </programme>
   <programme channel="Polsat.1.pl" start="20261019144000 -0500" stop="20261019144500 -0500">
-    <title lang="pl">Sport</title>
+    <title lang="en">Sports</title>
     <desc lang="pl">Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.</desc>
     <category lang="pl">program sportowy</category>
     <episode-num system="onscreen">E1019</episode-num>
@@ -12398,7 +12398,7 @@ Dyżurny informuje patrol o kradzieży gotówki. Pieniądze były przeznaczone n
     <episode-num system="onscreen">E1020</episode-num>
   </programme>
   <programme channel="Polsat.1.pl" start="20261020144000 -0500" stop="20261020144500 -0500">
-    <title lang="pl">Sport</title>
+    <title lang="en">Sports</title>
     <desc lang="pl">Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.</desc>
     <category lang="pl">program sportowy</category>
     <episode-num system="onscreen">E1020</episode-num>
@@ -12853,7 +12853,7 @@ W jednym z akademików matka szuka swojej córki. Prosi załogę o pomoc. W poko
     <episode-num system="onscreen">E1021</episode-num>
   </programme>
   <programme channel="Polsat.1.pl" start="20261021144000 -0500" stop="20261021144500 -0500">
-    <title lang="pl">Sport</title>
+    <title lang="en">Sports</title>
     <desc lang="pl">Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.</desc>
     <category lang="pl">program sportowy</category>
     <episode-num system="onscreen">E1021</episode-num>
@@ -13302,7 +13302,7 @@ Lena i Emilia znajduje w rowie nieprzytomnego mężczyznę. Brakuje śladów wyp
     <episode-num system="onscreen">E1022</episode-num>
   </programme>
   <programme channel="Polsat.1.pl" start="20261022144000 -0500" stop="20261022144500 -0500">
-    <title lang="pl">Sport</title>
+    <title lang="en">Sports</title>
     <desc lang="pl">Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.</desc>
     <category lang="pl">program sportowy</category>
     <episode-num system="onscreen">E1022</episode-num>
