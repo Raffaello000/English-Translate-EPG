@@ -51,6 +51,8 @@ def main():
     for channel in selected_channels:
         result.append(channel)
     translated = failed = programmes = 0
+    MAX_NEW_TRANSLATIONS = 40  # Small daily batch to respect free service limits
+    stopped = False
     for programme in root.findall("programme"):
         if programme.get("channel") not in channel_ids:
             continue
@@ -59,17 +61,24 @@ def main():
             original = (desc.text or "").strip()
             if not original:
                 continue
-            if original not in cache:
+            if original not in cache and not stopped:
+                if translated >= MAX_NEW_TRANSLATIONS:
+                    stopped = True
+                    print("Reached daily translation budget; remaining descriptions kept in Polish")
+                    continue
                 try:
                     # The free backend has a per-request length limit.
                     if len(original) > 4500:
                         raise ValueError("Description too long")
                     cache[original] = translator.translate(original)
                     translated += 1
-                    time.sleep(0.25)
+                    time.sleep(1.5)
                 except Exception as exc:
                     print("Translation unavailable; retaining Polish:", str(exc)[:120])
                     failed += 1
+                    if "too many requests" in str(exc).lower() or "429" in str(exc):
+                        stopped = True
+                        print("Translation rate limit reached; stopping further requests")
                     continue
             if cache.get(original):
                 desc.text = cache[original]
@@ -80,7 +89,7 @@ def main():
     ET.indent(result, space="  ")
     ET.ElementTree(result).write(OUTPUT, encoding="utf-8", xml_declaration=True)
     CACHE_PATH.write_text(json.dumps(cache, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(f"Wrote {programmes} programmes; new translations={translated}; failed={failed}")
+    print(f"Wrote {programmes} programmes; new translations={translated}; failed={failed}; rate_limited_or_budget_reached={stopped}")
 
 
 if __name__ == "__main__":
