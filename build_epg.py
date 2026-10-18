@@ -35,7 +35,7 @@ def xmltv_time(value):
     """Parse XMLTV timestamps, including timezone offsets."""
     if not value:
         return None
-    match = re.match(r"^(\\d{12})(?:\\d{2})?\\s*([+-]\\d{4})?", value.strip())
+    match = re.match(r"^(\d{12})(?:\d{2})?\s*([+-]\d{4})?", value.strip())
     if not match:
         return None
     base = datetime.strptime(match.group(1), "%Y%m%d%H%M")
