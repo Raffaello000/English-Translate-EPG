@@ -57,8 +57,8 @@ def main():
         if programme.get("channel") not in channel_ids:
             continue
         programmes += 1
-        for desc in programme.findall("desc"):
-            original = (desc.text or "").strip()
+        for element in list(programme.findall("title")) + list(programme.findall("desc")):
+            original = (element.text or "").strip()
             if not original:
                 continue
             if original not in cache and not stopped:
@@ -85,8 +85,8 @@ def main():
                         print("Translation rate limit reached; stopping further requests")
                     continue
             if cache.get(original):
-                desc.text = cache[original]
-                desc.set("lang", "en")
+                element.text = cache[original]
+                element.set("lang", "en")
         result.append(programme)
     if not programmes:
         raise RuntimeError("No programmes matched the selected channels")
