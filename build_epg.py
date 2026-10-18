@@ -86,6 +86,8 @@ def main():
         result.append(programme)
     if not programmes:
         raise RuntimeError("No programmes matched the selected channels")
+    if translated == 0 and not cache:
+        raise RuntimeError("No English translations obtained; free translator may be blocked. Refusing to publish Polish-only EPG.")
     ET.indent(result, space="  ")
     ET.ElementTree(result).write(OUTPUT, encoding="utf-8", xml_declaration=True)
     CACHE_PATH.write_text(json.dumps(cache, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
