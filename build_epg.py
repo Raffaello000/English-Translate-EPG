@@ -5,6 +5,7 @@ import json
 import os
 import re
 import time
+from datetime import datetime, timedelta, timezone
 import urllib.request
 import xml.etree.ElementTree as ET
 from pathlib import Path
@@ -30,6 +31,22 @@ def download():
     return ET.fromstring(data)
 
 
+def xmltv_time(value):
+    """Parse XMLTV timestamps, including timezone offsets."""
+    if not value:
+        return None
+    match = re.match(r"^(\\d{12})(?:\\d{2})?\\s*([+-]\\d{4})?", value.strip())
+    if not match:
+        return None
+    base = datetime.strptime(match.group(1), "%Y%m%d%H%M")
+    offset = match.group(2)
+    if offset:
+        sign = 1 if offset[0] == "+" else -1
+        minutes = sign * (int(offset[1:3]) * 60 + int(offset[3:5]))
+        return base.replace(tzinfo=timezone(timedelta(minutes=minutes))).astimezone(timezone.utc)
+    return base.replace(tzinfo=timezone.utc)
+
+
 def main():
     root = download()
     names = json.loads(CONFIG_PATH.read_text(encoding="utf-8"))
@@ -50,7 +67,20 @@ def main():
     result = ET.Element("tv", attrib=dict(root.attrib))
     for channel in selected_channels:
         result.append(channel)
-    selected_programmes = [p for p in root.findall("programme") if p.get("channel") in channel_ids]
+    now = datetime.now(timezone.utc)
+    horizon = now + timedelta(hours=24)
+    selected_programmes = []
+    for p in root.findall("programme"):
+        if p.get("channel") not in channel_ids:
+            continue
+        start = xmltv_time(p.get("start"))
+        stop = xmltv_time(p.get("stop"))
+        if start is None:
+            continue
+        # Include broadcasts that overlap the rolling 24-hour window.
+        if start < horizon and (stop is None or stop > now):
+            selected_programmes.append(p)
+    print(f"Selected rolling EPG window: {now.isoformat()} to {horizon.isoformat()}")
     programmes = len(selected_programmes)
     translated = failed = 0
     MAX_NEW_TRANSLATIONS = 200  # Maximum new translations per run; service quotas still apply
