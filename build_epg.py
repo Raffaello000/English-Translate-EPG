@@ -50,43 +50,48 @@ def main():
     result = ET.Element("tv", attrib=dict(root.attrib))
     for channel in selected_channels:
         result.append(channel)
-    translated = failed = programmes = 0
-    MAX_NEW_TRANSLATIONS = 10  # Trial batch; MyMemory free tier has daily limits
+    selected_programmes = [p for p in root.findall("programme") if p.get("channel") in channel_ids]
+    programmes = len(selected_programmes)
+    translated = failed = 0
+    MAX_NEW_TRANSLATIONS = 10  # Conservative trial budget per run
     stopped = False
-    for programme in root.findall("programme"):
-        if programme.get("channel") not in channel_ids:
-            continue
-        programmes += 1
-        for element in list(programme.findall("title")) + list(programme.findall("desc")):
-            original = (element.text or "").strip()
-            if not original:
-                continue
-            if original not in cache and not stopped:
+
+    # Translate all unique titles first, then descriptions, so guide titles
+    # become useful before the limited free translation budget is exhausted.
+    for tag in ("title", "desc"):
+        for programme in selected_programmes:
+            for element in programme.findall(tag):
+                original = (element.text or "").strip()
+                if not original or original in cache or stopped:
+                    continue
                 if translated >= MAX_NEW_TRANSLATIONS:
                     stopped = True
-                    print("Reached daily translation budget; remaining descriptions kept in Polish")
+                    print("Reached translation budget; untranslated text kept in Polish")
+                    break
+                if len(original.encode("utf-8")) > 450:
                     continue
                 try:
-                    # MyMemory has a small per-request byte limit; skip long descriptions.
-                    if len(original.encode("utf-8")) > 450:
-                        print("Skipping long description for free translator")
-                        continue
                     english = translator.translate(original)
                     if not english or english.strip() == original:
-                        raise ValueError("Translator returned empty or unchanged text")
+                        continue
                     cache[original] = english
                     translated += 1
                     time.sleep(2)
                 except Exception as exc:
-                    print("Translation unavailable; retaining Polish:", str(exc)[:120])
+                    print("Translation unavailable:", str(exc)[:120])
                     failed += 1
                     if any(term in str(exc).lower() for term in ("too many", "429", "quota", "limit", "500")):
                         stopped = True
-                        print("Translation rate limit reached; stopping further requests")
-                    continue
-            if cache.get(original):
-                element.text = cache[original]
-                element.set("lang", "en")
+                        print("Rate limit reached; stopping further requests")
+                        break
+
+    for programme in selected_programmes:
+        for tag in ("title", "desc"):
+            for element in programme.findall(tag):
+                original = (element.text or "").strip()
+                if original in cache and cache[original]:
+                    element.text = cache[original]
+                    element.set("lang", "en")
         result.append(programme)
     if not programmes:
         raise RuntimeError("No programmes matched the selected channels")
