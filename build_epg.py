@@ -9,7 +9,7 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
-from deep_translator import GoogleTranslator
+from deep_translator import MyMemoryTranslator
 
 SOURCE = os.getenv("EPG_SOURCE", "https://epgshare01.online/epgshare01/epg_ripper_PL1.xml.gz")
 OUTPUT = Path("english-translated-epg.xml")
@@ -46,12 +46,12 @@ def main():
         raise RuntimeError("Expected four channels; verify source URL and channel IDs in channels.json")
 
     cache = json.loads(CACHE_PATH.read_text(encoding="utf-8")) if CACHE_PATH.exists() else {}
-    translator = GoogleTranslator(source="pl", target="en")
+    translator = MyMemoryTranslator(source="pl-PL", target="en-GB")
     result = ET.Element("tv", attrib=dict(root.attrib))
     for channel in selected_channels:
         result.append(channel)
     translated = failed = programmes = 0
-    MAX_NEW_TRANSLATIONS = 40  # Small daily batch to respect free service limits
+    MAX_NEW_TRANSLATIONS = 10  # Trial batch; MyMemory free tier has daily limits
     stopped = False
     for programme in root.findall("programme"):
         if programme.get("channel") not in channel_ids:
@@ -67,16 +67,20 @@ def main():
                     print("Reached daily translation budget; remaining descriptions kept in Polish")
                     continue
                 try:
-                    # The free backend has a per-request length limit.
-                    if len(original) > 4500:
-                        raise ValueError("Description too long")
-                    cache[original] = translator.translate(original)
+                    # MyMemory has a small per-request byte limit; skip long descriptions.
+                    if len(original.encode("utf-8")) > 450:
+                        print("Skipping long description for free translator")
+                        continue
+                    english = translator.translate(original)
+                    if not english or english.strip() == original:
+                        raise ValueError("Translator returned empty or unchanged text")
+                    cache[original] = english
                     translated += 1
-                    time.sleep(1.5)
+                    time.sleep(2)
                 except Exception as exc:
                     print("Translation unavailable; retaining Polish:", str(exc)[:120])
                     failed += 1
-                    if "too many requests" in str(exc).lower() or "429" in str(exc):
+                    if any(term in str(exc).lower() for term in ("too many", "429", "quota", "limit", "500")):
                         stopped = True
                         print("Translation rate limit reached; stopping further requests")
                     continue
