@@ -53,7 +53,7 @@ def main():
     selected_programmes = [p for p in root.findall("programme") if p.get("channel") in channel_ids]
     programmes = len(selected_programmes)
     translated = failed = 0
-    MAX_NEW_TRANSLATIONS = 50  # Maximum new translations per run; service quotas still apply
+    MAX_NEW_TRANSLATIONS = 200  # Maximum new translations per run; service quotas still apply
     stopped = False
 
     # Translate all unique titles first, then descriptions, so guide titles
